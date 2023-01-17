@@ -1,3 +1,3 @@
-# odin-recipies
-My second github page! It's recipie time!!!
+# odin-recipes
+My second github page! It's recipe time!!!
 Hello Sublime >:)
